@@ -1,3 +1,6 @@
-# sample
+# sample, 示范代码
 
-sample code
+## test 
+- 测试相关代码
+    - nose sample
+    - mock sample
